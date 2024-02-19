@@ -24,8 +24,8 @@ The Accuracy of the models was arount `dsdssdsd`% for out hit or miss classifica
 ## How to Use
 1. **Installation**: Ensure you have Jupyter Notebook or JupyterLab installed.
 2. **Dependencies**: Install required Python packages listed in `requirements.txt` with `pip install -r requirements.txt`.
-
-3. **Running the Notebook**: Open `main.ipynb` in Jupyter and execute the cells sequentially.
+3. **Download dataset* Download dataset from the kaggle link in the Dataset section
+4. **Running the Notebook**: Open `main.ipynb` in Jupyter and execute the cells sequentially.
 
 ## Contributors
 -Isak Rlander, isru21@student.bth.se

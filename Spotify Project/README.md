@@ -1,4 +1,4 @@
-# Project Title: Predicting Song Popularity with Spotify Data
+# Predicting Song Popularity with Spotify Data
 
 ## Overview
 This project aims to predict the popularity of songs based on Spotify data using machine learning techniques. We explore various audio features provided by Spotify, such as duration, key, mode, and time signature, to understand their impact on a song's popularity.
@@ -28,5 +28,5 @@ The Accuracy of the models was arount `dsdssdsd`% for out hit or miss classifica
 4. **Running the Notebook**: Open `main.ipynb` in Jupyter and execute the cells sequentially.
 
 ## Contributors
--Isak Rlander, isru21@student.bth.se
+-Isak Rulander, isru21@student.bth.se
 -Morris Simons, mosi21@student.bth.se

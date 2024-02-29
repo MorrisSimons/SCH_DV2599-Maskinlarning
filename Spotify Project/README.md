@@ -18,9 +18,6 @@ The dataset can be found on: https://www.kaggle.com/datasets/zaheenhamidani/ulti
 ## Methodology
 The analysis involves several machine learning models to predict song popularity. The preprocessing steps include normalizing features and handling categorical data to prepare the dataset for modeling.
 
-## Key Findings
-The Accuracy of the models was arount `dsdssdsd`% for out hit or miss classification. The most important features for the models were `dsdsds`, `sddssdsd`, and `dsdssdsd`. The Random Forest model outperformed the other models with an accuracy of ""%.
-
 ## How to Use
 1. **Installation**: Ensure you have Jupyter Notebook or JupyterLab installed.
 2. **Dependencies**: Install required Python packages listed in `requirements.txt` with `pip install -r requirements.txt`.

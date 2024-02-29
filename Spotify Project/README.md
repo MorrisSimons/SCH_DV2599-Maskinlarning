@@ -1,4 +1,4 @@
-# Predicting Song Popularity with Spotify Data
+# Predicting Song Popularity with Spotify Sonic Profile
 
 ## Overview
 This project aims to predict the popularity of songs based on Spotify data using machine learning techniques. We explore various audio features provided by Spotify, such as duration, key, mode, and time signature, to understand their impact on a song's popularity.
